@@ -1,7 +1,7 @@
 # EXNO-6-DS-DATA VISUALIZATION USING SEABORN LIBRARY
 
-### Name: RAMYA R
-### Register Number: 212223230169
+### Name: SHARON STEFFANI.F
+### Register Number: 212223110049
 
 # Aim:
   To Perform Data Visualization using seaborn python library for the given datas.
